@@ -5,7 +5,7 @@
 #- Feet to Inches
 #- Degrees to Radians
 
-# My conversion Tools
+# My conversion Tools -- Tina
 
 def dollars2cents(dollars):
 	cents = dollars * 100
