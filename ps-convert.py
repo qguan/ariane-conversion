@@ -4,4 +4,3 @@
 def gallon2liter(g):
     l = g * 3.78541
     return l
-
